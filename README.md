@@ -26,3 +26,6 @@
 
 ## Стек
 Python, pandas, scikit-learn, matplotlib, seaborn
+
+## Ссылка на ноутбук
+[Открыть ноутбук в nbviewer](https://nbviewer.org/github/MashaaSit/gym_clients_analytics/blob/main/notebooks/main.ipynb)
