@@ -5,7 +5,7 @@
 с целью персонализации маркетинга и снижения оттока.
 ---
 ## Данные
-[Gym Members Exercise Dataset](ссылка на kaggle) — 
+[Gym Members Exercise Dataset](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset) — 
 973 записи, 15 признаков: возраст, пол, тип тренировки, 
 пульс, калории, процент жира и др.
 ---
